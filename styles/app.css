@@ -1,0 +1,17 @@
+.login-pane, .signup-pane {
+    -fx-background-color: linear-gradient(to bottom right, #1e1e2f, #282a36);
+    -fx-padding: 25;
+    -fx-border-radius: 10;
+}
+
+.button {
+    -fx-background-color: #50fa7b;
+    -fx-text-fill: #1e1e2f;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-background-radius: 5;
+}
+
+.button:hover {
+    -fx-background-color: #8be9fd;
+}
